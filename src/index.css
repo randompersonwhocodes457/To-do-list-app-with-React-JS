@@ -79,3 +79,9 @@ li{
     font-size: 1.4rem;
     margin-left: 10px;
 }
+
+@media screen and (max-width: 450px){
+    .input-div{
+        display: flex;
+    }
+}

@@ -45,7 +45,7 @@ function ToDoList(){
 
         <h1>To-Do-List</h1>
 
-        <div>
+        <div className="input-div">
             <input 
                 type="text"
                 placeholder="Enter a task..."
