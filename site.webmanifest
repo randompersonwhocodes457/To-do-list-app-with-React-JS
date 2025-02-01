@@ -1,0 +1,11 @@
+{
+    "name": "To do List with React",
+    "short_name": "To do list",
+    "icons":
+        [
+            {"src":"./src/assets/checklist.png","sizes":"180x180","type":"image/png"}
+        ],
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone"
+}
