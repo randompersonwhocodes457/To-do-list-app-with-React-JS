@@ -83,5 +83,10 @@ li{
 @media screen and (max-width: 450px){
     .input-div{
         display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    input[type="text"]{
+        font-size: 1.2rem;
     }
 }
